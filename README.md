@@ -1,4 +1,4 @@
-# Predict Boston Housing Price
+# Predict Boston Housing Price - Model Evaluation and Validation
 This project is for the Udacity course on Model Evaluation and Validation
 
 ## Objective
