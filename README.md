@@ -5,7 +5,7 @@ This project is for the Udacity course on Model Evaluation and Validation
 The goal is to build a regression model for the housing price in the Boston Area. Model Evaluation and Validation techniques will be used to access the final model.
 
 ## Usage 
-1. Put all the file in the root directory 
+1. put all the file in the root directory 
 2. run the "boston_housing.py" in Python
 
 ## Software and library requirement:
